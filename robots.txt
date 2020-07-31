@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://eu-ssi.github.io/eussi.org/sitemap.xml
